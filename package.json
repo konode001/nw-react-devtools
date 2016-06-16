@@ -2,7 +2,7 @@
   "name": "nw-react-devtools",
   "version": "0.14.11",
   "description": "",
-  "main": "build/main.js",
+  "main": "manifest.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
