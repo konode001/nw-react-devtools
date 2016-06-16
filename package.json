@@ -1,0 +1,19 @@
+{
+  "name": "nw-react-devtools",
+  "version": "0.14.11",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konode001/nw-react-devtools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konode001/nw-react-devtools/issues"
+  },
+  "homepage": "https://github.com/konode001/nw-react-devtools#readme"
+}
